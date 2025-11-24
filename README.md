@@ -4,7 +4,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
-[![Troubleshooting](https://img.shields.io/badge/Docs-Troubleshooting-blue)](TROUBLESHOOTING.md)
+![Troubleshooting](https://img.shields.io/badge/Docs-Troubleshooting-blue.svg?style=for-the-badge)
 
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
 
