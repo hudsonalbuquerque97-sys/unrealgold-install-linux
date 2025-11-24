@@ -76,7 +76,7 @@ wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/unrealgold-instal
 
 1. **Baixe o script:**
 ```bash
-wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/unreal-install-linux/refs/heads/main/unrealgold-install-linux-patch227k.sh
+wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/unrealgold-install-linux/refs/heads/main/unrealgold-install-linux-patch227k.sh
 ```
 
 2. **Torne-o executável:**
@@ -231,7 +231,7 @@ wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/unrealgold-instal
 
 1. **Download the script:**
 ```bash
-wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/unreal-install-linux/refs/heads/main/unrealgold-install-linux-patch227k.sh
+wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/unrealgold-install-linux/refs/heads/main/unrealgold-install-linux-patch227k.sh
 ```
 
 2. **Make it executable:**
