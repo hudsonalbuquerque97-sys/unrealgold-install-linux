@@ -119,7 +119,7 @@ unrealgold
 
 ```
 ~/Games/UnrealGold/        # Instalação do jogo
-├── System/               # Executáveis e configurações
+├── System64/               # Executáveis e configurações
 │   ├── unreal-bin-amd64   # Binário principal
 │   ├── UnrealLinux.ini       # Configuração principal
 │   └── *.so             # Bibliotecas Linux
@@ -273,8 +273,8 @@ unrealgold
 ### 📁 File structure
 
 ```
-~/Games/Unreal/           # Game installation
-├── System/               # Executables and configs
+~/Games/UnrealGold/           # Game installation
+├── System64/               # Executables and configs
 │   ├── unreal-bin-amd64   # Main binary
 │   ├── UnrealLinux.ini       # Main configuration
 │   └── *.so             # Linux libraries
