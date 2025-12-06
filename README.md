@@ -321,3 +321,7 @@ Feel free to submit issues or pull requests to improve this installer.
 - **OldUnreal Team** - For the amazing 227k patch
 - **Epic Games** - For creating Unreal
 - **Community** - For keeping this classic alive
+
+**Screenshot** 
+
+![Minha área de trabalho](https://raw.githubusercontent.com/hudsonalbuquerque97-sys/unrealgold-install-linux/refs/heads/main/screenshot.png)
